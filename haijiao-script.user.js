@@ -53,7 +53,7 @@
   };
   const logScriptInfo = () => {
     logger(
-      "脚本更新地址：https://linux.do/t/topic/1125143"
+      "漏洞来源于 linuxdo 社区这篇三级帖子：https://linux.do/t/topic/1125143"
     );
   };
   const logger = (...reset) => {
